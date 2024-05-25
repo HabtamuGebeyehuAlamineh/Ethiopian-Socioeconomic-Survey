@@ -146,4 +146,4 @@ Ethiopian-Socioeconomic-Survey/
 
 ## Usage
 
-To use these files, you can download them and open them in a CSV reader like Excel or use a programming language  R for analysis. 
+I am using a programming language  R for analysis. 
